@@ -1446,7 +1446,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/www.frubar.net"
+                         "value":"{<lobby>\/maps\/generic-tech.json#start_frubar}"
                         }]
                 }, 
                 {
@@ -1455,7 +1455,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/www.frubar.net"
+                         "value":"{<lobby>\/maps\/generic-tech.json#start_frubar}"
                         }]
                 }],
          "tilewidth":32
