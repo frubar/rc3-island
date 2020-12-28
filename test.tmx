@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" infinite="0" nextlayerid="9" nextobjectid="5">
  <editorsettings>
-  <export target="test.json" format="json"/>
+  <export target="main.json" format="json"/>
  </editorsettings>
  <tileset firstgid="1" name="beach-desert" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
   <image source="tiles/beach-desert.png" width="1024" height="1024"/>
@@ -457,7 +457,7 @@
  </layer>
  <layer id="7" name="test-exit" width="100" height="100">
   <properties>
-   <property name="exitUrl" value="{&lt;lobby&gt;/maps/generic-assemblies.json#start_hysp}"/>
+   <property name="exitUrl" value="{&lt;lobby&gt;/maps/generic-assemblies.json}"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
