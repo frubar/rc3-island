@@ -441,7 +441,7 @@
         {
          "columns":128,
          "firstgid":5593,
-         "image":"..\/..\/..\/..\/Downloads\/font-pack\/nuskool_krome_64x64.png",
+         "image":"tiles\/font-pack\/nuskool_krome_64x64.png",
          "imageheight":64,
          "imagewidth":4096,
          "margin":0,
@@ -454,7 +454,7 @@
         {
          "columns":91,
          "firstgid":5849,
-         "image":"..\/..\/..\/..\/Downloads\/font-pack\/outline_24x32.png",
+         "image":"tiles\/font-pack\/outline_24x32.png",
          "imageheight":32,
          "imagewidth":2184,
          "margin":0,
