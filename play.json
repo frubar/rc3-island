@@ -64,6 +64,12 @@
          "id":4,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"i7MCD9BUTGmpkAYGU0L5M1o94GKFlhoMsEm5mpDnx1U8LsxlCH"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -89,6 +95,11 @@
          "name":"enter-inf",
          "opacity":1,
          "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"eFCs6jvdU5KdggkpF0FOGDT4cXwul4Ii8L2o9MZpimfLCearRS"
+                }, 
                 {
                  "name":"startLayer",
                  "type":"bool",
