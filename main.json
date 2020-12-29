@@ -45,6 +45,11 @@
                  "name":"getBadge",
                  "type":"string",
                  "value":"lEM5zpEASflifkm1E59SVLV9nShOXLIDDSlEwkkx3pcqpIueJ6"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"wave_02_cc0-18363__jasinski__alkaibeach.flac"
                 }],
          "type":"tilelayer",
          "visible":true,
