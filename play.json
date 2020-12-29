@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"main.json#exit-play"
                 }],
          "type":"tilelayer",
          "visible":true,
