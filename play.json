@@ -18,7 +18,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"raining_gifloop.mp3"
                 }],
@@ -383,6 +388,27 @@
  "nextlayerid":23,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"wiedi"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Let's play a game"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/frubar\/rc3-island"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"play"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
