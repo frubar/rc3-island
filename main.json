@@ -882,7 +882,7 @@
          "name":"bbq",
          "properties":[
                 {
-                 "name":"tilesetCopyright\n",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"wiedi"
                 }],
