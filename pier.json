@@ -211,6 +211,12 @@
          "imagewidth":576,
          "margin":0,
          "name":"wateranimate2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ZaPaper"
+                }],
          "spacing":0,
          "tilecount":216,
          "tileheight":32,
@@ -224,6 +230,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"adobe-2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"bluecarrot16"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -237,6 +249,12 @@
          "imagewidth":2048,
          "margin":0,
          "name":"megacommando2x",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":5120,
          "tileheight":32,
@@ -449,6 +467,12 @@
          "imagewidth":4096,
          "margin":0,
          "name":"nuskool_krome_64x64",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Zingot Games"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -468,6 +492,12 @@
          "imagewidth":2184,
          "margin":0,
          "name":"outline_24x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Zingot Games"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -481,6 +511,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
