@@ -742,6 +742,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"beach-desert",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"bluecarrot16"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -755,6 +761,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"dk_transports",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -768,6 +780,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"official_rockets",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":80,
          "tileheight":32,
@@ -781,6 +799,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"sand",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"William.Thompsonj, Daniel Eddeland"
+                }],
          "spacing":0,
          "tilecount":108,
          "tileheight":32,
@@ -794,6 +818,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"tiles_sheet",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"kenney"
+                }],
          "spacing":0,
          "tilecount":384,
          "tileheight":32,
@@ -807,6 +837,12 @@
          "imagewidth":2048,
          "margin":0,
          "name":"tiles_sheet@2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"kenney"
+                }],
          "spacing":0,
          "tilecount":1536,
          "tileheight":32,
@@ -820,6 +856,12 @@
          "imagewidth":576,
          "margin":0,
          "name":"wateranimate2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ZaPaper"
+                }],
          "spacing":0,
          "tilecount":216,
          "tileheight":32,
@@ -833,6 +875,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"bbq",
+         "properties":[
+                {
+                 "name":"tilesetCopyright\n",
+                 "type":"string",
+                 "value":"wiedi"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -846,6 +894,12 @@
          "imagewidth":352,
          "margin":0,
          "name":"Hangar",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CERT (CCC)"
+                }],
          "spacing":0,
          "tilecount":44,
          "tileheight":32,
@@ -859,6 +913,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"silo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"wiedi"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -872,6 +932,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"world-map-starterkit"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -885,6 +951,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"funwithflags",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"wiedi"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -898,6 +970,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"turntable32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ZomBCool"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -932,6 +1010,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"club",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"wiedi"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -945,6 +1029,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -962,6 +1052,15 @@
          "tilecount":256,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"bluecarrot16"
+                        }]
+                }, 
                 {
                  "id":72,
                  "properties":[
