@@ -66,7 +66,7 @@
         {
          "draworder":"topdown",
          "id":25,
-         "name":"start",
+         "name":"start-badge",
          "objects":[
                 {
                  "height":32,
@@ -86,12 +86,6 @@
                  "y":95.5
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"y"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -142,7 +136,7 @@
         {
          "draworder":"topdown",
          "id":23,
-         "name":"enter-inf",
+         "name":"enter-inf-badge",
          "objects":[
                 {
                  "height":0,
@@ -163,7 +157,7 @@
                         {
                          "name":"getBadge",
                          "type":"string",
-                         "value":""
+                         "value":"x"
                         }],
                  "rotation":0,
                  "type":"",
@@ -173,12 +167,6 @@
                  "y":1123
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"x"
-                }],
          "tintcolor":"#000000",
          "type":"objectgroup",
          "visible":true,
