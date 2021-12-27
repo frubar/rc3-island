@@ -1053,19 +1053,16 @@
          "imagewidth":512,
          "margin":0,
          "name":"adobe-2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"bluecarrot16"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"bluecarrot16"
-                        }]
-                }, 
                 {
                  "id":72,
                  "properties":[
