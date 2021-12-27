@@ -42,11 +42,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"lEM5zpEASflifkm1E59SVLV9nShOXLIDDSlEwkkx3pcqpIueJ6"
-                }, 
-                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"wave_02_cc0-18363__jasinski__alkaibeach.flac"
@@ -54,6 +49,51 @@
          "type":"tilelayer",
          "visible":true,
          "width":100,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":21,
+         "name":"peak-badge",
+         "objects":[
+                {
+                 "height":115.151515151515,
+                 "id":5,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"todo"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":206.060606060606,
+                 "x":842.424242424242,
+                 "y":1124.24242424242
+                }, 
+                {
+                 "height":78.787878787879,
+                 "id":6,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"TODO"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":69.6969696969695,
+                 "x":2484.84848484848,
+                 "y":2212.12121212121
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -666,8 +706,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":21,
- "nextobjectid":5,
+ "nextlayerid":22,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "properties":[
         {
