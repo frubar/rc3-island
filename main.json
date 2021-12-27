@@ -669,6 +669,27 @@
  "nextlayerid":21,
  "nextobjectid":5,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"wiedi"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"The best island in the world"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/frubar\/rc3-island"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Frubar Island"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
