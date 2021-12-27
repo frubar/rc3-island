@@ -92,6 +92,12 @@
                  "y":2212.12121212121
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"o4OwUB7kJWGUfgfvdhHSvWlUKtj2e0l3J3mn8rdMWlfQVei2PM"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
