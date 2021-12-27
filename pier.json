@@ -32,12 +32,6 @@
          "id":10,
          "name":"goto-team23",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"{<team23>\/main.json}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -50,12 +44,6 @@
          "id":11,
          "name":"goto-oio",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"{<af-oio>\/main.json}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -68,12 +56,6 @@
          "id":12,
          "name":"goto-3",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"{<schokoladensouffle>\/main.json}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -86,12 +68,6 @@
          "id":13,
          "name":"goto-4",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"{<okoyono>\/main.json}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -104,12 +80,6 @@
          "id":14,
          "name":"goto-5",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"{<moin>\/main.json}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -122,12 +92,6 @@
          "id":15,
          "name":"goto-6",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"{<whistleblowers>\/main.json}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
