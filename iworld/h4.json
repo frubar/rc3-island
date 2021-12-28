@@ -89,7 +89,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -100,6 +100,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"opensolaris",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"opensolaris"
+                }],
          "spacing":0,
          "tilecount":140,
          "tileheight":32,
@@ -113,6 +119,12 @@
          "imagewidth":1664,
          "margin":0,
          "name":"factory_tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"by rubberduck (https:\/\/opengameart.org\/content\/factory-tileset)\n"
+                }],
          "spacing":0,
          "tilecount":1664,
          "tileheight":32,
@@ -1273,6 +1285,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":40
 }

@@ -428,6 +428,12 @@
          "imagewidth":1664,
          "margin":0,
          "name":"factory_tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"by rubberduck (https:\/\/opengameart.org\/content\/factory-tileset)\n"
+                }],
          "spacing":0,
          "tilecount":1664,
          "tileheight":32,
@@ -5176,6 +5182,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"clt_tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CLT"
+                }],
          "spacing":0,
          "tilecount":49,
          "tileheight":32,
@@ -5189,6 +5201,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"illumos64",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"illumos"
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
@@ -5202,6 +5220,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Interiors_free_32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/limezu.itch.io\/moderninteriors"
+                }],
          "spacing":0,
          "tilecount":896,
          "tileheight":32,
@@ -5462,6 +5486,16 @@
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/limezu.itch.io\/moderninteriors"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -5476,6 +5510,15 @@
          "tilecount":100,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/limezu.itch.io\/moderninteriors"
+                        }]
+                }, 
                 {
                  "id":10,
                  "properties":[
@@ -5684,6 +5727,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"Tileset_32x32_3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/limezu.itch.io\/moderninteriors"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -5697,6 +5746,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"Tileset_32x32_9",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/limezu.itch.io\/moderninteriors"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -5710,6 +5765,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"Tileset_32x32_16",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/limezu.itch.io\/moderninteriors"
+                }],
          "spacing":0,
          "tilecount":168,
          "tileheight":32,
@@ -6966,6 +7027,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"racks",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"wiedi"
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
@@ -7052,6 +7119,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"dist",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"wiedi & distro logo creators"
+                }],
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
@@ -7065,6 +7138,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"noplace",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"wiedi"
+                }],
          "spacing":0,
          "tilecount":90,
          "tileheight":32,
@@ -7098,6 +7177,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":false
+                        }, 
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/opengameart.org\/content\/lpc-water-fountain"
                         }]
                 }, 
                 {
@@ -7200,6 +7284,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"build_atlas",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"\nLicense\n-------\n\nCC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nNote only some files from the entries are selected.\n*Additional license information.\n\nAssets from:\n\nLPC participants:\n----------------\n\nBarbara Rivera\n \n - tree,tombstone\n\nCasper Nilsson\n\t*GNU GPL 3.0 or later\n\temail: casper.nilsson@gmail.com\n\tFreenode: CasperN\n\tOpenGameArt.org: C.Nilsson\n\t\n - LPC C.Nilsson (2D art)\n \nChris Phillips\n\n - tree\n\nDaniel Eddeland \n\t*GNU GPL 3.0 or later\n\t\n - Tilesets of plants, props, food and environments, suitable for farming \/ fishing sims and other games. \n - Includes wheat, grass, sand tilesets, fence tilesets and plants such as corn and tomato. \n - Also includes village\/marketplace objects like sacks, food, some smithing equipment, tables and stalls.\n\n\nAnamaris and Krusmira (aka? Emilio J Sanchez)\n\n - Sierra__Steampun-a-fy (with concept art)\n \nJonas Klinger \n\n - Skorpio's SciFi Sprite Pack\n \nJoshua Taylor\n\n - Fruit and Veggie Inventory\n \nLeo Villeveygoux\n\n - Limestone Wall\n\nMark Weyer \n\n - signpost+shadow\n \nMatthew Nash\n\n - Public Toilet Tileset\n \nSkyler Robert Colladay\n\n - FeralFantom's Entry\n\n\nBASE assets:\n------------\n\nLanea Zimmerman (AKA Sharm)\n~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n - barrel.png\n - brackish.png\n - buckets.png\n - bridges.png\n - cabinets.png\n - cement.png\n - cementstair.png\n - chests.png\n - country.png\n - cup.png\n - dirt2.png\n - dirt.png\n - dungeon.png\n - grassalt.png\n - grass.png\n - holek.png\n - holemid.png\n - hole.png\n - house.png\n - inside.png\n - kitchen.png\n - lava.png\n - lavarock.png\n - mountains.png\n - rock.png\n - shadow.png\n - signs.png\n - stairs.png\n - treetop.png\n - trunk.png\n - waterfall.png\n - watergrass.png\n - water.png\n - princess.png and princess.xcf\n\n\nStephen Challener (AKA Redshrike)\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n - female_walkcycle.png\n - female_hurt.png\n - female_slash.png\n - female_spellcast.png\n - male_walkcycle.png\n - male_hurt.png\n - male_slash.png\n - male_spellcast.png\n - male_pants.png\n - male_hurt_pants.png\n - male_fall_down_pants.png\n - male_slash_pants.png\n\n\nCharles Sanchez (AKA CharlesGabriel)\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n - bat.png\n - bee.png\n - big_worm.png\n - eyeball.png\n - ghost.png\n - man_eater_flower.png\n - pumpking.png\n - slime.png\n - small_worm.png\n - snake.png\n\n\nManuel Riecke (AKA MrBeast)\n~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n - hairfemale.png and hairfemale.xcf\n - hairmale.png and hairmale.xcf\n - soldier.png\n - soldier_altcolor.png\n\n\nDaniel Armstrong (AKA HughSpectrum)\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nCastle work:\n\n - castlewalls.png\n - castlefloors.png\n - castle_outside.png\n - castlefloors_outside.png\n - castle_lightsources.png\n\n\n"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -7213,6 +7303,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"coco-decoration",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Coco"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -7226,6 +7322,12 @@
          "imagewidth":960,
          "margin":0,
          "name":"rc3-2021-mullana-utility",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"mullana"
+                }],
          "spacing":0,
          "tilecount":1200,
          "tileheight":32,

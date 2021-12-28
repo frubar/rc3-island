@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":32,
  "infinite":false,
  "layers":[
@@ -17,14 +10,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioLoop",
+                 "type":"string",
+                 "value":"snd\/AmbientComputerMedley.mp3"
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/iworld.wiedi.hk\/iworld\/nfo\/1970.html"
-                }, 
-                {
-                 "name":"playAudioLoop",
-                 "type":"string",
-                 "value":"snd\/AmbientComputerMedley.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -101,7 +94,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -112,6 +105,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"unix",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC BY-SA 2.0 Peter Hamer - https:\/\/en.wikipedia.org\/wiki\/Unix#\/media\/File:Ken_Thompson_(sitting)_and_Dennis_Ritchie_at_PDP-11_(2876612463).jpg"
+                }],
          "spacing":0,
          "tilecount":180,
          "tileheight":32,
@@ -125,6 +124,12 @@
          "imagewidth":1664,
          "margin":0,
          "name":"factory_tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"by rubberduck (https:\/\/opengameart.org\/content\/factory-tileset)"
+                }],
          "spacing":0,
          "tilecount":1664,
          "tileheight":32,
@@ -1858,35 +1863,9 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":128,
-         "firstgid":1845,
-         "image":"tiles\/font-pack\/nuskool_krome_64x64.png",
-         "imageheight":64,
-         "imagewidth":4096,
-         "margin":0,
-         "name":"nuskool_krome_64x64",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":1,
-         "firstgid":2101,
-         "image":"tiles\/font-pack\/gradbubble-32x32-wip.png",
-         "imageheight":1376,
-         "imagewidth":32,
-         "margin":0,
-         "name":"gradbubble-32x32-wip",
-         "spacing":0,
-         "tilecount":43,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":32
 }

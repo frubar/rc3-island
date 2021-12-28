@@ -119,7 +119,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -130,6 +130,12 @@
          "imagewidth":1664,
          "margin":0,
          "name":"factory_tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"by rubberduck (https:\/\/opengameart.org\/content\/factory-tileset)\n"
+                }],
          "spacing":0,
          "tilecount":1664,
          "tileheight":32,
@@ -1008,6 +1014,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"Tileset_32x32_16",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/limezu.itch.io\/moderninteriors"
+                }],
          "spacing":0,
          "tilecount":168,
          "tileheight":32,
@@ -2111,6 +2123,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"illumos64",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"illumos"
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
@@ -2124,6 +2142,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"oracle-solaris",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"oracle"
+                }],
          "spacing":0,
          "tilecount":10,
          "tileheight":32,
@@ -2137,6 +2161,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"noplace",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"wiedi"
+                }],
          "spacing":0,
          "tilecount":90,
          "tileheight":32,
@@ -2144,6 +2174,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":40
 }

@@ -10,14 +10,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioLoop",
+                 "type":"string",
+                 "value":"snd\/AmbientComputerMedley.mp3"
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/iworld.wiedi.hk\/iworld\/nfo\/1980.html"
-                }, 
-                {
-                 "name":"playAudioLoop",
-                 "type":"string",
-                 "value":"snd\/AmbientComputerMedley.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -94,7 +94,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -105,6 +105,12 @@
          "imagewidth":1152,
          "margin":0,
          "name":"suntools-sunos1-spheresdemo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"http:\/\/www.typewritten.org"
+                }],
          "spacing":0,
          "tilecount":1008,
          "tileheight":32,
@@ -118,6 +124,12 @@
          "imagewidth":1664,
          "margin":0,
          "name":"factory_tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"by rubberduck (https:\/\/opengameart.org\/content\/factory-tileset)"
+                }],
          "spacing":0,
          "tilecount":1664,
          "tileheight":32,
@@ -1854,6 +1866,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":50
 }
