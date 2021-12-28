@@ -7150,6 +7150,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"WaterFountain",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/opengameart.org\/content\/lpc-water-fountain\n"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -7170,11 +7176,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":false
-                        }, 
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"https:\/\/opengameart.org\/content\/lpc-water-fountain"
                         }]
                 }, 
                 {
