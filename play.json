@@ -80,6 +80,12 @@
                  "y":95.5
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"U0Bw9NeMg1pYyUpo5CsGzgcpvzmhqo7kwPtfqnWBl1GCUNIQfs"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -155,6 +161,12 @@
                  "y":1123
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"7IJPXfZWcMaOY1P8ZwAVq3DtBCLTTVrsdHjqEIH7koKWpBk0mb"
+                }],
          "tintcolor":"#000000",
          "type":"objectgroup",
          "visible":true,
