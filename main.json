@@ -643,7 +643,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"pier.json"
+                 "value":"iworld\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,

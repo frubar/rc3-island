@@ -1,0 +1,26 @@
+body {
+	background-color: #524a57;
+	color: #eee;
+	font-family: sans-serif;
+	font-size: 16pt;
+	padding: 1em;
+}
+a {
+	color: #fff;
+}
+.btn {
+	clear: both;
+	display: inline-block;
+	padding: 0.5em;
+	border: 1px solid #222;
+	border-radius: 4px;
+	background-color: #857e8a;
+	color: #111;
+	text-decoration: none;
+}
+.btn:hover {
+	background-color: #a9a4ab;
+}
+.de {
+	float: right;
+}
