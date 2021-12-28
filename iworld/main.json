@@ -5483,19 +5483,15 @@
          "imagewidth":320,
          "margin":0,
          "name":"Tileset_32x32_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/limezu.itch.io\/moderninteriors\n"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"https:\/\/limezu.itch.io\/moderninteriors"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -5506,19 +5502,16 @@
          "imagewidth":320,
          "margin":0,
          "name":"Tileset_32x32_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/limezu.itch.io\/moderninteriors\n"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"https:\/\/limezu.itch.io\/moderninteriors"
-                        }]
-                }, 
                 {
                  "id":10,
                  "properties":[
@@ -7200,6 +7193,29 @@
                          "name":"collides",
                          "type":"bool",
                          "value":false
+                        }, 
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/opengameart.org\/content\/lpc-water-fountain"
+                        }]
+                }, 
+                {
+                 "id":2,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/opengameart.org\/content\/lpc-water-fountain"
+                        }]
+                }, 
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/opengameart.org\/content\/lpc-water-fountain"
                         }]
                 }, 
                 {
@@ -7218,6 +7234,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/opengameart.org\/content\/lpc-water-fountain"
                         }]
                 }, 
                 {
@@ -7236,6 +7257,29 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/opengameart.org\/content\/lpc-water-fountain"
+                        }]
+                }, 
+                {
+                 "id":6,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/opengameart.org\/content\/lpc-water-fountain"
+                        }]
+                }, 
+                {
+                 "id":7,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/opengameart.org\/content\/lpc-water-fountain"
                         }]
                 }, 
                 {
@@ -7254,6 +7298,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/opengameart.org\/content\/lpc-water-fountain"
                         }]
                 }, 
                 {
@@ -7272,6 +7321,29 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/opengameart.org\/content\/lpc-water-fountain"
+                        }]
+                }, 
+                {
+                 "id":10,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/opengameart.org\/content\/lpc-water-fountain"
+                        }]
+                }, 
+                {
+                 "id":11,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/opengameart.org\/content\/lpc-water-fountain"
                         }]
                 }],
          "tilewidth":32

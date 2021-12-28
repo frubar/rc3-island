@@ -11,13 +11,18 @@
          "properties":[
                 {
                  "name":"audioLoop",
-                 "type":"string",
-                 "value":"snd\/AmbientComputerMedley.mp3"
+                 "type":"bool",
+                 "value":true
                 }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/iworld.wiedi.hk\/iworld\/nfo\/1990.html"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"snd\/AmbientComputerMedley.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
