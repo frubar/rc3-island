@@ -72,6 +72,12 @@
                  "height":32,
                  "id":25,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"U0Bw9NeMg1pYyUpo5CsGzgcpvzmhqo7kwPtfqnWBl1GCUNIQfs"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -80,12 +86,6 @@
                  "y":95.5
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"U0Bw9NeMg1pYyUpo5CsGzgcpvzmhqo7kwPtfqnWBl1GCUNIQfs"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -153,6 +153,12 @@
                  "height":25.6666666666665,
                  "id":24,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"7IJPXfZWcMaOY1P8ZwAVq3DtBCLTTVrsdHjqEIH7koKWpBk0mb"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -161,12 +167,6 @@
                  "y":1123
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"7IJPXfZWcMaOY1P8ZwAVq3DtBCLTTVrsdHjqEIH7koKWpBk0mb"
-                }],
          "tintcolor":"#000000",
          "type":"objectgroup",
          "visible":true,
