@@ -352,7 +352,24 @@
          "draworder":"topdown",
          "id":5,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":310.909090909091,
+                 "id":4,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"pMV1QeGHE1JMNFjt3iDVvpIulpggaetIFbiTl07suZalLesWzz"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":303.636363636364,
+                 "x":1576.36363636364,
+                 "y":1665.45454545455
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -414,7 +431,7 @@
          "y":0
         }],
  "nextlayerid":28,
- "nextobjectid":4,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
